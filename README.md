@@ -204,4 +204,4 @@ This repository serves as the official landing page for Mysteries of Perception:
 **Get the most recent version of Mysteries of Perception: The Curse today!**
 
 ---
-**Last updated:** 2026-11-12 18:01:47 UTC
+**Last updated:** 2026-11-13 00:00:28 UTC
